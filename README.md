@@ -1,5 +1,5 @@
 # Exported Site: streamlined-wonders-781944.framer.app
-Exported on 2026-03-20 by NoCodeExport
+Exported on 2026-03-24 by NoCodeExport
 
 ## How to View Your Site
 This export uses **hotlink mode** — all assets (images, scripts, styles, fonts) reference the original site's CDN. The site requires an internet connection to load correctly.
